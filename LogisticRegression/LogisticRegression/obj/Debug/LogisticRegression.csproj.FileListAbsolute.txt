@@ -1,0 +1,10 @@
+D:\c#\Test\LogisticRegression\LogisticRegression\bin\Debug\LogisticRegression.exe.config
+D:\c#\Test\LogisticRegression\LogisticRegression\bin\Debug\LogisticRegression.exe
+D:\c#\Test\LogisticRegression\LogisticRegression\bin\Debug\LogisticRegression.pdb
+D:\c#\Test\LogisticRegression\LogisticRegression\bin\Debug\MathNet.Numerics.dll
+D:\c#\Test\LogisticRegression\LogisticRegression\bin\Debug\MathNet.Numerics.xml
+D:\c#\Test\LogisticRegression\LogisticRegression\obj\Debug\LogisticRegression.csproj.AssemblyReference.cache
+D:\c#\Test\LogisticRegression\LogisticRegression\obj\Debug\LogisticRegression.csproj.CoreCompileInputs.cache
+D:\c#\Test\LogisticRegression\LogisticRegression\obj\Debug\LogisticRegression.csproj.CopyComplete
+D:\c#\Test\LogisticRegression\LogisticRegression\obj\Debug\LogisticRegression.exe
+D:\c#\Test\LogisticRegression\LogisticRegression\obj\Debug\LogisticRegression.pdb
